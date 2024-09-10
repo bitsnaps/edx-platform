@@ -98,7 +98,7 @@ Language Packages:
 * Backend application:
 
   - ``pip install -r requirements/edx/base.txt`` (production)
-  - ``pip install -r requirements/edx/dev.txt`` (development)
+  - ``pip install -r requirements/edx/development.txt`` (development)
 
 Build Steps
 -----------
